@@ -8,14 +8,13 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 - 🌱 I’m always learning and exploring new technologies
 - 👯 I’m looking to collaborate on exciting open-source projects
 - 🥅 2025 Goals: Contribute to more open-source projects and enhance my skills in MERN STACK
-- ⚡ Fun fact: I love solving puzzles and playing chess in my free time
+
 
 ## 🚀 Skills
 
 - **Languages**: Python, C
-- **Frameworks and Libraries**: React, Node.js, Django, Flask
+- **Frameworks and Libraries**: React, Node.js
 - **Databases**: SQL, PostgreSQL, MongoDB
-- **Cloud**: AWS, Azure, Google Cloud
 - **Other Tools**: Git, VS Code, Linux
 
 ## 📈 GitHub Stats
