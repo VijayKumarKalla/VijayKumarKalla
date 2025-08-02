@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 
 ## 📈 GitHub Stats
 
-![Vijay Kumar Kalla's GitHub stats](https://github-readme-stats.vercel.app/api?username=VijayKumarKalla&show_icons=true&theme=radical)
+
 
 ## 📫 How to Reach Me
 
