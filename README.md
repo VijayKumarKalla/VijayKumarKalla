@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 
 - **Languages**: Python, C
 - **Frameworks and Libraries**: React, Node.js
-- **Databases**: SQL, PostgreSQL, MongoDB
+- **Databases**: SQL, PostgreSQL
 - **Other Tools**: Git, VS Code, Linux
 
 ## 📈 GitHub Stats
